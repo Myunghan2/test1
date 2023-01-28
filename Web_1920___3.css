@@ -1,0 +1,186 @@
+@media (min-width: 0px) {
+	.mediaViewInfo {
+		--web-view-name: Web 1920 – 3;
+		--web-view-id: Web_1920__3;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Web_1920__3 {
+		position: absolute;
+		display: block;
+		width: 548px;
+		height: 1080px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: Web 1920 – 3;
+		--web-view-id: Web_1920__3;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	@keyframes  {
+	
+	
+	}
+	@keyframes  {
+	
+	
+	}
+	#n_10_ {
+		position: absolute;
+		width: 626px;
+		height: 1123px;
+		left: -39px;
+		top: -15px;
+		overflow: visible;
+	}
+	#n_1_bb {
+		fill: rgba(11,31,45,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.n_1_bb {
+		overflow: visible;
+		position: absolute;
+		width: 626px;
+		height: 1123px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#n___ {
+		left: 21px;
+		top: 217px;
+		position: absolute;
+		overflow: visible;
+		width: 508px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: GangwonEduAll OTF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 45px;
+		color: rgba(142,229,165,1);
+	}
+	#n_2023-01-28__101944_ba {
+		position: absolute;
+		width: 228px;
+		height: 50px;
+		left: 160px;
+		top: 1010px;
+		overflow: visible;
+	}
+	#n______1_____1_______4_____4__ {
+		left: 37px;
+		top: 329px;
+		position: absolute;
+		overflow: visible;
+		width: 475px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nanum Gothic;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#n_1_bc {
+		position: absolute;
+		width: 81px;
+		height: 81px;
+		left: 388px;
+		top: 708px;
+		overflow: visible;
+		--web-animation: fadein 0.30000001192092896s ease-out;
+		--web-action-type: view;
+		--web-action-target: Web_1920__4;
+		cursor: pointer;
+	}
+	#n_1_bd {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.n_1_bd {
+		position: absolute;
+		overflow: visible;
+		width: 81px;
+		height: 81px;
+		left: 0px;
+		top: 0px;
+	}
+	#Text_be {
+		left: 15px;
+		top: 13px;
+		position: absolute;
+		overflow: visible;
+		width: 53px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: GangwonEduAll OTF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 57px;
+		color: rgba(11,31,45,1);
+	}
+	#n_2_bf {
+		transform: matrix(1,0,0,1,79,708) rotate(180deg);
+		transform-origin: center;
+		position: absolute;
+		width: 81px;
+		height: 81px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+		--web-animation: fadein 0.30000001192092896s ease-out;
+		--web-action-type: view;
+		--web-action-target: Web_1920__2;
+		cursor: pointer;
+	}
+	#n_1_bg {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.n_1_bg {
+		position: absolute;
+		overflow: visible;
+		width: 81px;
+		height: 81px;
+		left: 0px;
+		top: 0px;
+	}
+	#Text_bh {
+		left: 14px;
+		top: 12px;
+		position: absolute;
+		overflow: visible;
+		width: 53px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: GangwonEduAll OTF;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 57px;
+		color: rgba(11,31,45,1);
+	}
+}
